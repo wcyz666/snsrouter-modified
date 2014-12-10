@@ -1,0 +1,58 @@
+[
+  {
+    "need_auth": true, 
+    "expire_after": 2444871, 
+    "user_id": "", 
+    "platform": "RenrenFeed", 
+    "app_secret": "1db5c5bf4ca44a75b3e6065f401d0b16", 
+    "app_key": "268874", 
+    "channel_name": "Renren", 
+    "is_authed": true, 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth2.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes"
+  }, 
+  {
+    "need_auth": false, 
+    "expire_after": -1, 
+    "user_id": "", 
+    "platform": "RSS", 
+    "url": "https://github.com/hupili/snsapi/commits/master.atom", 
+    "app_secret": "", 
+    "app_key": "", 
+    "channel_name": "feed_github_snsapi", 
+    "is_authed": true, 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes", 
+    "method": "home_timeline"
+  }, 
+  {
+    "access_key": "1599990409-keJcjxyibqjHkEdEeZ1LkvcIiw809I0N9HCvRRH", 
+    "need_auth": false, 
+    "expire_after": -1, 
+    "user_id": "", 
+    "platform": "TwitterStatus", 
+    "app_secret": "xOl31NQFrO9mn99tvvf5wmYBjeJT2V50gJNrPNHs6c", 
+    "app_key": "jNeenbpkNvGnGgR09AbXRQ", 
+    "channel_name": "test_twitter", 
+    "is_authed": true, 
+    "text_length_limit": 140, 
+    "access_secret": "4fk0WmEos6bTEMuA7cjYAjGNkmLqusQAzAkrbFgq3M", 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes"
+  }
+]

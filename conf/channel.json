@@ -1,0 +1,73 @@
+[
+  {
+    "need_auth": true, 
+    "expire_after": 2228206, 
+    "user_id": "", 
+    "platform": "RenrenFeed", 
+    "app_secret": "1db5c5bf4ca44a75b3e6065f401d0b16", 
+    "app_key": "268874", 
+    "text_length_limit": 140, 
+    "is_authed": true, 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth2.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes", 
+    "channel_name": "Renren"
+  }, 
+  {
+    "need_auth": true, 
+    "expire_after": 122207, 
+    "user_id": "", 
+    "channel_name": "Sina_Weibo", 
+    "app_secret": "f66be317638e969f2849b0b33578a110", 
+    "app_key": "2564487519", 
+    "text_length_limit": 140, 
+    "is_authed": true, 
+    "platform": "SinaWeiboStatus", 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth2.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes"
+  }, 
+  {
+    "need_auth": true, 
+    "expire_after": 4818907, 
+    "user_id": "", 
+    "platform": "FacebookFeed", 
+    "access_token": "CAAVh0C291MQBAJJEbURbIxhn5q0w71qnGvJoGom0IZBstEjYJm85EtZCRCRh0oT8pDBeHGlJZBVEjRLcZBts9OkUmGwhXWFr9vp5K1FqTmridXibydqv3vA26VD0twFjkByiifBMFuUjF6gYP3Q3IZCXrX2nfqeIgQkS0w3RkybmZAPbTiAdAnotaTWCuBtFtPP9xAu9ZCESgZDZD", 
+    "app_secret": "06e311196023913af1a81438005cd71e", 
+    "app_key": "1514921632060612", 
+    "text_length_limit": 140, 
+    "is_authed": true, 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth2.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes", 
+    "channel_name": "Facebook"
+  }, 
+  {
+    "username": "snsapi_sqlite_username", 
+    "need_auth": false, 
+    "expire_after": -1, 
+    "methods": "update,forward", 
+    "platform": "SQLite", 
+    "url": "test.db", 
+    "open": "yes", 
+    "userid": "snsapi_sqlite_userid", 
+    "channel_name": "test_sqlite", 
+    "is_authed": true, 
+    "home_timeline": {
+      "count": 10
+    }, 
+    "user_name": "snsapi_sqlite_username"
+  }
+]

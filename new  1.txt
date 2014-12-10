@@ -1,0 +1,73 @@
+  {
+	 "user_id": "", 
+    "text_length_limit": 140, 
+    "app_secret": "1db5c5bf4ca44a75b3e6065f401d0b16", 
+    "app_key": "268874", 
+    "channel_name": "Renren", 
+    "platform": "RenrenFeed", 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth2.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes"
+  },  
+  {
+    "access_key": "1599990409-keJcjxyibqjHkEdEeZ1LkvcIiw809I0N9HCvRRH", 
+    "user_id": "", 
+    "channel_name": "test_twitter", 
+    "app_secret": "xOl31NQFrO9mn99tvvf5wmYBjeJT2V50gJNrPNHs6c", 
+    "app_key": "jNeenbpkNvGnGgR09AbXRQ", 
+    "platform": "TwitterStatus", 
+    "text_length_limit": 140, 
+    "access_secret": "4fk0WmEos6bTEMuA7cjYAjGNkmLqusQAzAkrbFgq3M", 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes"
+  },
+  {
+    "url": "test.db", 
+    "user_name": "snsapi_sqlite_username", 
+    "methods": "update,forward",
+    "channel_name": "test_sqlite", 
+    "open": "yes", 
+    "platform": "SQLite",
+    "home_timeline":{
+      "count": 10
+    }
+  },
+  {
+    "channel_name": "feed_hpl_renren_zhan", 
+    "methods": "home_timeline",
+    "open": "yes",
+    "platform": "RSS", 
+    "url": "http://zhan.renren.com/snsinsight/rss",
+    "home_timeline":{
+      "count": 5
+    }
+  },
+  {
+    "channel_name": "feed_github_snsapi", 
+    "methods": "home_timeline",
+    "open": "yes",
+    "platform": "RSS", 
+    "url": "https://github.com/hupili/snsapi/commits/master.atom",
+    "home_timeline":{
+      "count": 5
+    }
+  },
+  {
+    "channel_name": "feed_github_sns-router", 
+    "methods": "home_timeline",
+    "open": "yes",
+    "platform": "RSS", 
+    "url": "https://github.com/hupili/sns-router/commits/master.atom",
+    "home_timeline":{
+      "count": 5
+    }
+  }

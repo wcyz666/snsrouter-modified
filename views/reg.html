@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>REG page</title>
+<link href="css/login.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/user.js"></script>
+</head>
+
+
+<body onload="document.getElementById('email').focus();">
+
+<div class="content">        
+        <div class="line_021">
+        <div class="main">
+        <div class="dltcbox">
+        <div class="tpti">
+        <div class="dltet1">Register</div>
+        </div>
+        <div class="dlnr">
+        <div class="btmbg">
+        </div>
+        <div class="dlnrbox">
+        <form  method="post" action="/register" id="loginform">
+        <div class="dlform">
+        <div class="dlhc1">
+        <div class="yhm">Username</div>
+        <div class="kuang1">
+        <input type="text" id="email" placeholder="your Username"  name="username" maxlength="20"  class="cl input1" required="required"/>
+        </div>
+        </div>
+        <div class="dlhc1"><div class="yhm">password</div>
+        <div class="kuang2">
+        <input type="password" id="password"  value="" maxlength="20" name="password" class="cl input1" required="required"/>
+        </div></div>
+        <div class="hc_dlerr" id="err"></div><div class="hc_dlerr2">
+        <a target="_blank" href="https://secure.grp13.ierg4210.ie.cuhk.edu.hk/recovery.php"> forget password?
+        </a></div></div><div class="hc_dlbtnbx"><a class="hc_dlbtn1" href="javascript:loginform();">
+        register</a><a class="hc_dlbtn2" href="/">return</a></form>
+
+
+
+
+</body>
+</html>

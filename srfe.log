@@ -1,0 +1,1398 @@
+[WARNING][20140605-103723]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140605-103723]Read configs done. Add 5 channels
+[INFO][20140605-103723]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140605-103723]RSS platform do not need auth!
+[INFO][20140605-103723]RSS platform do not need auth!
+[INFO][20140605-103723]RSS platform do not need auth!
+[INFO][20140605-103723]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+wc
+Traceback (most recent call last):
+  File "srfe.py", line 320, in <module>
+    reloader = jsonconf.get('reloader', False)
+  File "bottle/bottle.py", line 623, in run
+    run(self, **kwargs)
+  File "bottle/bottle.py", line 2697, in run
+    [INFO][20140605-103723]Read 0 statuses
+server.run(app)
+  File "bottle/bottle.py", line 2379, in run
+    srv = make_server(self.host, self.port, handler, **self.options)
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 144, in make_server
+    server = server_class((host, port), handler_class)
+  File "/usr/lib/python2.7/SocketServer.py", line 408, in __init__
+    self.server_bind()
+  File "/usr/lib/python2.7/wsgiref/simple_server.py", line 48, in server_bind
+    HTTPServer.server_bind(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/usr/lib/python2.7/SocketServer.py", line 419, in server_bind
+    self.socket.bind(self.server_address)
+  File "/usr/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Fatal Python error: PyImport_GetModuleDict: no module dictionary!
+[WARNING][20140605-103841]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140605-103841]Read configs done. Add 5 channels
+[INFO][20140605-103841]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140605-103841]RSS platform do not need auth!
+[INFO][20140605-103841]RSS platform do not need auth!
+[INFO][20140605-103841]RSS platform do not need auth!
+[INFO][20140605-103841]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140605-103841]Read 0 statuses
+[INFO][20140605-103842]Read 5 statuses
+[INFO][20140605-103843]Read 5 statuses
+[INFO][20140605-103844]Read 4 statuses
+[WARNING][20140605-103844]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103844]Read 0 statuses
+[INFO][20140605-103845]Read 5 statuses
+[INFO][20140605-103847]Read 5 statuses
+[INFO][20140605-103847]Read 4 statuses
+[WARNING][20140605-103847]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103847]Read 0 statuses
+[INFO][20140605-103849]Read 5 statuses
+[INFO][20140605-103850]Read 5 statuses
+[INFO][20140605-103851]Read 4 statuses
+[WARNING][20140605-103851]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103851]Read 0 statuses
+[INFO][20140605-103852]Read 5 statuses
+localhost - - [05/Jun/2014 10:38:53] "GET /login HTTP/1.1" 200 512
+[INFO][20140605-103854]Read 5 statuses
+[INFO][20140605-103854]Read 4 statuses
+[WARNING][20140605-103854]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103854]Read 0 statuses
+localhost - - [05/Jun/2014 10:38:55] "POST /login HTTP/1.1" 200 209
+[INFO][20140605-103856]Read 5 statuses
+localhost - - [05/Jun/2014 10:38:57] "GET / HTTP/1.1" 303 0
+localhost - - [05/Jun/2014 10:38:57] "GET /login HTTP/1.1" 200 512
+[INFO][20140605-103857]Read 5 statuses
+[INFO][20140605-103858]Read 4 statuses
+[WARNING][20140605-103858]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103858]Read 0 statuses
+[INFO][20140605-103859]Read 5 statuses
+[INFO][20140605-103901]Read 5 statuses
+[INFO][20140605-103901]Read 4 statuses
+[WARNING][20140605-103901]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103901]Read 0 statuses
+[INFO][20140605-103903]Read 5 statuses
+[INFO][20140605-103904]Read 5 statuses
+[INFO][20140605-103904]Read 4 statuses
+[WARNING][20140605-103905]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103905]Read 0 statuses
+[INFO][20140605-103907]Read 5 statuses
+[INFO][20140605-103908]Read 5 statuses
+localhost - - [05/Jun/2014 10:39:09] "POST /login HTTP/1.1" 200 209
+[INFO][20140605-103909]Read 4 statuses
+[WARNING][20140605-103909]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103909]Read 0 statuses
+[INFO][20140605-103910]Read 5 statuses
+[INFO][20140605-103911]Read 5 statuses
+[INFO][20140605-103912]Read 4 statuses
+[WARNING][20140605-103912]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103912]Read 0 statuses
+[INFO][20140605-103913]Read 5 statuses
+[INFO][20140605-103915]Read 5 statuses
+[INFO][20140605-103915]Read 4 statuses
+[WARNING][20140605-103915]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103915]Read 0 statuses
+[INFO][20140605-103917]Read 5 statuses
+[INFO][20140605-103918]Read 5 statuses
+[INFO][20140605-103919]Read 4 statuses
+[WARNING][20140605-103919]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103919]Read 0 statuses
+[INFO][20140605-103920]Read 5 statuses
+[INFO][20140605-103921]Read 5 statuses
+[INFO][20140605-103922]Read 4 statuses
+[WARNING][20140605-103922]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103922]Read 0 statuses
+[INFO][20140605-103923]Read 5 statuses
+[INFO][20140605-103924]Read 5 statuses
+[INFO][20140605-103925]Read 4 statuses
+[WARNING][20140605-103925]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103925]Read 0 statuses
+[INFO][20140605-103926]Read 5 statuses
+[INFO][20140605-103928]Read 5 statuses
+[INFO][20140605-103928]Read 4 statuses
+[WARNING][20140605-103928]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103928]Read 0 statuses
+[INFO][20140605-103929]Read 5 statuses
+[INFO][20140605-103931]Read 5 statuses
+[INFO][20140605-103932]Read 4 statuses
+[WARNING][20140605-103932]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103932]Read 0 statuses
+[INFO][20140605-103933]Read 5 statuses
+[INFO][20140605-103934]Read 5 statuses
+[INFO][20140605-103935]Read 4 statuses
+[WARNING][20140605-103935]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103935]Read 0 statuses
+[INFO][20140605-103936]Read 5 statuses
+[INFO][20140605-103937]Read 5 statuses
+[INFO][20140605-103938]Read 4 statuses
+[WARNING][20140605-103938]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103938]Read 0 statuses
+[INFO][20140605-103939]Read 5 statuses
+[INFO][20140605-103941]Read 5 statuses
+[INFO][20140605-103941]Read 4 statuses
+[WARNING][20140605-103941]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103941]Read 0 statuses
+[INFO][20140605-103942]Read 5 statuses
+[INFO][20140605-103944]Read 5 statuses
+[INFO][20140605-103944]Read 4 statuses
+[WARNING][20140605-103944]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103944]Read 0 statuses
+[INFO][20140605-103946]Read 5 statuses
+[INFO][20140605-103947]Read 5 statuses
+[INFO][20140605-103947]Read 4 statuses
+[WARNING][20140605-103947]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103947]Read 0 statuses
+[INFO][20140605-103949]Read 5 statuses
+[INFO][20140605-103950]Read 5 statuses
+[INFO][20140605-103951]Read 4 statuses
+[WARNING][20140605-103951]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103951]Read 0 statuses
+[INFO][20140605-103952]Read 5 statuses
+[INFO][20140605-103953]Read 5 statuses
+[INFO][20140605-103954]Read 4 statuses
+[WARNING][20140605-103954]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103954]Read 0 statuses
+[INFO][20140605-103955]Read 5 statuses
+[INFO][20140605-103956]Read 5 statuses
+[INFO][20140605-103957]Read 4 statuses
+[WARNING][20140605-103957]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103957]Read 0 statuses
+[INFO][20140605-103959]Read 5 statuses
+[INFO][20140605-104000]Read 5 statuses
+[INFO][20140605-104000]Read 4 statuses
+[WARNING][20140605-104000]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104000]Read 0 statuses
+[INFO][20140605-104002]Read 5 statuses
+[INFO][20140605-104003]Read 5 statuses
+[INFO][20140605-104003]Read 4 statuses
+[WARNING][20140605-104003]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104003]Read 0 statuses
+[INFO][20140605-104005]Read 5 statuses
+[INFO][20140605-104006]Read 5 statuses
+[INFO][20140605-104007]Read 4 statuses
+[WARNING][20140605-104007]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104007]Read 0 statuses
+[INFO][20140605-104008]Read 5 statuses
+[INFO][20140605-104009]Read 5 statuses
+[INFO][20140605-104010]Read 4 statuses
+[WARNING][20140605-104010]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104010]Read 0 statuses
+[INFO][20140605-104011]Read 5 statuses
+[INFO][20140605-104012]Read 5 statuses
+[INFO][20140605-104013]Read 4 statuses
+[WARNING][20140605-104013]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104013]Read 0 statuses
+[INFO][20140605-104014]Read 5 statuses
+[INFO][20140605-104016]Read 5 statuses
+[INFO][20140605-104016]Read 4 statuses
+[WARNING][20140605-104016]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104016]Read 0 statuses
+[INFO][20140605-104018]Read 5 statuses
+[INFO][20140605-104019]Read 5 statuses
+[INFO][20140605-104019]Read 4 statuses
+[WARNING][20140605-104020]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104020]Read 0 statuses
+[INFO][20140605-104021]Read 5 statuses
+[INFO][20140605-104022]Read 5 statuses
+[INFO][20140605-104023]Read 4 statuses
+[WARNING][20140605-104023]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104023]Read 0 statuses
+[INFO][20140605-104024]Read 5 statuses
+[INFO][20140605-104025]Read 5 statuses
+[INFO][20140605-104026]Read 4 statuses
+[WARNING][20140605-104026]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104026]Read 0 statuses
+[INFO][20140605-104028]Read 5 statuses
+[INFO][20140605-104029]Read 5 statuses
+[INFO][20140605-104030]Read 4 statuses
+[WARNING][20140605-104030]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-104030]Read 0 statuses
+[WARNING][20140605-105207]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140605-105207]Read configs done. Add 5 channels
+[INFO][20140605-105207]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140605-105207]RSS platform do not need auth!
+[INFO][20140605-105207]RSS platform do not need auth!
+[INFO][20140605-105207]RSS platform do not need auth!
+[INFO][20140605-105207]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140605-105208]Read 0 statuses
+[INFO][20140605-105209]Read 5 statuses
+[INFO][20140605-105210]Read 5 statuses
+[INFO][20140605-105211]Read 4 statuses
+[WARNING][20140605-105211]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105211]Read 0 statuses
+[INFO][20140605-105212]Read 5 statuses
+localhost - - [05/Jun/2014 10:52:13] "GET /login HTTP/1.1" 200 512
+[INFO][20140605-105214]Read 5 statuses
+[INFO][20140605-105214]Read 4 statuses
+localhost - - [05/Jun/2014 10:52:15] "POST /login HTTP/1.1" 200 209
+[WARNING][20140605-105215]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105215]Read 0 statuses
+[INFO][20140605-105216]Read 5 statuses
+localhost - - [05/Jun/2014 10:52:17] "GET / HTTP/1.1" 303 0
+localhost - - [05/Jun/2014 10:52:17] "GET /login HTTP/1.1" 200 512
+[INFO][20140605-105218]Read 5 statuses
+[INFO][20140605-105219]Read 4 statuses
+[WARNING][20140605-105219]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105219]Read 0 statuses
+[INFO][20140605-105220]Read 5 statuses
+localhost - - [05/Jun/2014 10:52:20] "GET /index HTTP/1.1" 404 730
+[INFO][20140605-105221]Read 5 statuses
+[INFO][20140605-105222]Read 4 statuses
+[WARNING][20140605-105222]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105222]Read 0 statuses
+[INFO][20140605-105223]Read 5 statuses
+[INFO][20140605-105225]Read 5 statuses
+[INFO][20140605-105225]Read 4 statuses
+[WARNING][20140605-105225]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105225]Read 0 statuses
+[INFO][20140605-105226]Read 5 statuses
+[INFO][20140605-105228]Read 5 statuses
+[INFO][20140605-105228]Read 4 statuses
+[WARNING][20140605-105228]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105228]Read 0 statuses
+[INFO][20140605-105230]Read 5 statuses
+[INFO][20140605-105231]Read 5 statuses
+[INFO][20140605-105232]Read 4 statuses
+[WARNING][20140605-105232]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105232]Read 0 statuses
+[INFO][20140605-105233]Read 5 statuses
+[INFO][20140605-105234]Read 5 statuses
+[INFO][20140605-105235]Read 4 statuses
+[WARNING][20140605-105235]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105235]Read 0 statuses
+[INFO][20140605-105236]Read 5 statuses
+[INFO][20140605-105238]Read 5 statuses
+localhost - - [05/Jun/2014 10:52:38] "GET /home_timeline HTTP/1.1" 303 0
+[INFO][20140605-105238]Read 4 statuses
+[WARNING][20140605-105238]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105238]Read 0 statuses
+localhost - - [05/Jun/2014 10:52:38] "GET /login HTTP/1.1" 200 512
+[INFO][20140605-105240]Read 5 statuses
+[INFO][20140605-105241]Read 5 statuses
+localhost - - [05/Jun/2014 10:52:41] "POST /login HTTP/1.1" 200 209
+[INFO][20140605-105242]Read 4 statuses
+[WARNING][20140605-105242]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105242]Read 0 statuses
+[INFO][20140605-105243]Read 5 statuses
+[INFO][20140605-105244]Read 5 statuses
+[INFO][20140605-105245]Read 4 statuses
+[WARNING][20140605-105245]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105245]Read 0 statuses
+[INFO][20140605-105246]Read 5 statuses
+[INFO][20140605-105248]Read 5 statuses
+localhost - - [05/Jun/2014 10:52:48] "GET /home_timeline HTTP/1.1" 303 0
+localhost - - [05/Jun/2014 10:52:48] "GET /login HTTP/1.1" 200 512
+[INFO][20140605-105249]Read 4 statuses
+[WARNING][20140605-105249]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105249]Read 0 statuses
+[INFO][20140605-105250]Read 5 statuses
+[INFO][20140605-105252]Read 5 statuses
+[INFO][20140605-105252]Read 4 statuses
+[WARNING][20140605-105252]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105252]Read 0 statuses
+[INFO][20140605-105253]Read 5 statuses
+[INFO][20140605-105255]Read 5 statuses
+[INFO][20140605-105256]Read 4 statuses
+[WARNING][20140605-105256]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105256]Read 0 statuses
+[INFO][20140605-105257]Read 5 statuses
+[INFO][20140605-105259]Read 5 statuses
+[INFO][20140605-105259]Read 4 statuses
+[WARNING][20140605-105259]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-105259]Read 0 statuses
+[WARNING][20140609-113621]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-113621]Read configs done. Add 4 channels
+[INFO][20140609-113621]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-113621]RSS platform do not need auth!
+[INFO][20140609-113621]RSS platform do not need auth!
+[INFO][20140609-113621]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-113621]Read 2 statuses
+[INFO][20140609-113623]Read 5 statuses
+[INFO][20140609-113623]Read 4 statuses
+[INFO][20140609-113625]Read 5 statuses
+[INFO][20140609-113625]Input 0 new message
+localhost - - [09/Jun/2014 11:36:31] "GET /update HTTP/1.1" 200 321
+localhost - - [09/Jun/2014 11:36:36] "GET /sql HTTP/1.1" 200 387
+localhost - - [09/Jun/2014 11:36:39] "GET /operation HTTP/1.1" 200 1870
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 49, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 11:36:46] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[INFO][20140609-114125]Read 2 statuses
+[INFO][20140609-114126]Read 5 statuses
+[INFO][20140609-114127]Read 4 statuses
+[INFO][20140609-114129]Read 5 statuses
+[INFO][20140609-114129]Input 0 new message
+[WARNING][20140609-114511]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-114511]Read configs done. Add 4 channels
+[INFO][20140609-114511]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-114511]RSS platform do not need auth!
+[INFO][20140609-114511]RSS platform do not need auth!
+[INFO][20140609-114511]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-114511]Read 2 statuses
+[INFO][20140609-114512]Read 5 statuses
+[INFO][20140609-114513]Read 4 statuses
+[INFO][20140609-114514]Read 5 statuses
+[INFO][20140609-114514]Input 0 new message
+localhost - - [09/Jun/2014 11:45:18] "GET /operation HTTP/1.1" 200 1870
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 49
+    print(mo, f[1])
+        ^
+SyntaxError: invalid syntax
+localhost - - [09/Jun/2014 11:45:20] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 1994
+[WARNING][20140609-114554]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-114554]Read configs done. Add 4 channels
+[INFO][20140609-114554]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-114554]RSS platform do not need auth!
+[INFO][20140609-114554]RSS platform do not need auth!
+[INFO][20140609-114554]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-114554]Read 2 statuses
+[INFO][20140609-114555]Read 5 statuses
+[INFO][20140609-114556]Read 4 statuses
+[INFO][20140609-114557]Read 5 statuses
+[INFO][20140609-114557]Input 0 new message
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 49
+    print mo, f[1]
+        ^
+SyntaxError: invalid syntax
+localhost - - [09/Jun/2014 11:46:04] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 1992
+[WARNING][20140609-114703]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-114703]Read configs done. Add 4 channels
+[INFO][20140609-114703]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-114703]RSS platform do not need auth!
+[INFO][20140609-114703]RSS platform do not need auth!
+[INFO][20140609-114703]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-114703]Read 2 statuses
+[INFO][20140609-114704]Read 5 statuses
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 11:47:14] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[INFO][20140609-114715]Read 4 statuses
+[INFO][20140609-114716]Read 5 statuses
+[INFO][20140609-114716]Input 0 new message
+[WARNING][20140609-114741]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-114741]Read configs done. Add 4 channels
+[INFO][20140609-114741]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-114741]RSS platform do not need auth!
+[INFO][20140609-114741]RSS platform do not need auth!
+[INFO][20140609-114741]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-114741]Read 2 statuses
+[INFO][20140609-114743]Read 5 statuses
+[INFO][20140609-114743]Read 4 statuses
+[INFO][20140609-114744]Read 5 statuses
+[INFO][20140609-114744]Input 0 new message
+localhost - - [09/Jun/2014 11:47:48] "GET /operation HTTP/1.1" 200 1870
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 11:47:51] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[WARNING][20140609-114848]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-114848]Read configs done. Add 4 channels
+[INFO][20140609-114848]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-114848]RSS platform do not need auth!
+[INFO][20140609-114848]RSS platform do not need auth!
+[INFO][20140609-114848]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-114848]Read 2 statuses
+[INFO][20140609-114850]Read 5 statuses
+[INFO][20140609-114850]Read 4 statuses
+[INFO][20140609-114852]Read 5 statuses
+[INFO][20140609-114852]Input 0 new message
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 49, in Feature
+    logger.warning(mo, f[1]);
+  File "/home/mobitec/Downloads/sns-router/snsapi/snslog.py", line 95, in warning
+    logging.warning(SNSLog.__env_info() + fmt, *args)
+TypeError: cannot concatenate 'str' and 'module' objects
+localhost - - [09/Jun/2014 11:48:56] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2265
+[WARNING][20140609-114937]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-114937]Read configs done. Add 4 channels
+[INFO][20140609-114937]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-114937]RSS platform do not need auth!
+[INFO][20140609-114937]RSS platform do not need auth!
+[INFO][20140609-114937]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-114938]Read 2 statuses
+[INFO][20140609-114939]Read 5 statuses
+[INFO][20140609-114939]Read 4 statuses
+[INFO][20140609-114941]Read 5 statuses
+[INFO][20140609-114941]Input 0 new message
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 11:49:44] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[WARNING][20140609-115027]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-115027]Read configs done. Add 4 channels
+[INFO][20140609-115027]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-115027]RSS platform do not need auth!
+[INFO][20140609-115027]RSS platform do not need auth!
+[INFO][20140609-115027]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-115027]Read 2 statuses
+[INFO][20140609-115028]Read 5 statuses
+[INFO][20140609-115030]Read 4 statuses
+[INFO][20140609-115031]Read 5 statuses
+[INFO][20140609-115031]Input 0 new message
+[WARNING][20140609-115034]FeatureLength
+[WARNING][20140609-115034]FeatureNoise
+[WARNING][20140609-115034]FeatureLink
+[WARNING][20140609-115034]FeatureEcho
+[WARNING][20140609-115034]FeaturePic
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 11:50:34] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[WARNING][20140609-115447]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-115447]Read configs done. Add 4 channels
+[INFO][20140609-115447]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-115447]RSS platform do not need auth!
+[INFO][20140609-115447]RSS platform do not need auth!
+[INFO][20140609-115447]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-115447]Read 2 statuses
+[INFO][20140609-115449]Read 5 statuses
+[INFO][20140609-115450]Read 4 statuses
+[INFO][20140609-115451]Read 5 statuses
+[INFO][20140609-115451]Input 0 new message
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 846, in emit
+    msg = self.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 723, in format
+    return fmt.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 464, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 328, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Logged from file snslog.py, line 95
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 11:54:53] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[WARNING][20140609-115538]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-115538]Read configs done. Add 4 channels
+[INFO][20140609-115538]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-115538]RSS platform do not need auth!
+[INFO][20140609-115538]RSS platform do not need auth!
+[INFO][20140609-115538]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-115539]Read 2 statuses
+[INFO][20140609-115540]Read 5 statuses
+[INFO][20140609-115541]Read 4 statuses
+[INFO][20140609-115542]Read 5 statuses
+[INFO][20140609-115542]Input 0 new message
+[WARNING][20140609-115543]basic
+[WARNING][20140609-115543]basic
+[WARNING][20140609-115543]basic
+[WARNING][20140609-115543]basic
+[WARNING][20140609-115543]pic
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 11:55:43] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[WARNING][20140609-115908]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-115908]Read configs done. Add 4 channels
+[INFO][20140609-115908]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-115908]RSS platform do not need auth!
+[INFO][20140609-115908]RSS platform do not need auth!
+[INFO][20140609-115908]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-115908]Read 2 statuses
+[INFO][20140609-115909]Read 5 statuses
+[INFO][20140609-115910]Read 4 statuses
+[INFO][20140609-115911]Read 5 statuses
+[INFO][20140609-115911]Input 0 new message
+[WARNING][20140609-115957]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-115957]Read configs done. Add 4 channels
+[INFO][20140609-115957]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-115957]RSS platform do not need auth!
+[INFO][20140609-115957]RSS platform do not need auth!
+[INFO][20140609-115957]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-115957]Read 2 statuses
+[INFO][20140609-115958]Read 5 statuses
+[INFO][20140609-115959]Read 4 statuses
+[INFO][20140609-120001]Read 5 statuses
+[INFO][20140609-120001]Input 0 new message
+[WARNING][20140609-120018]basic
+[WARNING][20140609-120018]basic
+[WARNING][20140609-120018]basic
+[WARNING][20140609-120018]basic
+[WARNING][20140609-120018]pic
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 12:00:18] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[WARNING][20140609-120050]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-120050]Read configs done. Add 4 channels
+[INFO][20140609-120050]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-120050]RSS platform do not need auth!
+[INFO][20140609-120050]RSS platform do not need auth!
+[INFO][20140609-120050]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-120050]Read 2 statuses
+[INFO][20140609-120052]Read 5 statuses
+[INFO][20140609-120052]Read 4 statuses
+[INFO][20140609-120054]Read 5 statuses
+[INFO][20140609-120054]Input 0 new message
+localhost - - [09/Jun/2014 12:00:57] "GET /operation HTTP/1.1" 200 1870
+[WARNING][20140609-120059]basic
+[WARNING][20140609-120059]basic
+[WARNING][20140609-120059]basic
+[WARNING][20140609-120059]basic
+[WARNING][20140609-120059]pic
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 12:00:59] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+[WARNING][20140609-120144]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140609-120144]Read configs done. Add 4 channels
+[INFO][20140609-120144]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140609-120144]RSS platform do not need auth!
+[INFO][20140609-120144]RSS platform do not need auth!
+[INFO][20140609-120144]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140609-120144]Read 2 statuses
+[INFO][20140609-120145]Read 5 statuses
+[INFO][20140609-120147]Read 4 statuses
+[INFO][20140609-120148]Read 5 statuses
+[INFO][20140609-120148]Input 0 new message
+localhost - - [09/Jun/2014 12:01:52] "GET / HTTP/1.1" 200 298
+localhost - - [09/Jun/2014 12:01:52] "GET / HTTP/1.1" 200 298
+localhost - - [09/Jun/2014 12:01:52] "GET / HTTP/1.1" 200 298
+localhost - - [09/Jun/2014 12:01:52] "GET / HTTP/1.1" 200 298
+localhost - - [09/Jun/2014 12:01:53] "GET / HTTP/1.1" 200 298
+localhost - - [09/Jun/2014 12:01:54] "GET /operation HTTP/1.1" 200 1870
+[WARNING][20140609-120155]basic
+[WARNING][20140609-120155]basic
+[WARNING][20140609-120155]basic
+[WARNING][20140609-120155]basic
+[WARNING][20140609-120155]pic
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 84, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 161, in operation_prepare_training_data
+    re = q.prepare_training_data()
+  File "/home/mobitec/Downloads/sns-router/queue.py", line 619, in prepare_training_data
+    from analysis.select_samples import select_samples
+  File "/home/mobitec/Downloads/sns-router/analysis/select_samples.py", line 25, in <module>
+    from ranking.feature import Feature
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/mobitec/Downloads/sns-router/ranking/feature.py", line 50, in Feature
+    cl = getattr(mo, class_name)
+AttributeError: 'module' object has no attribute 'FeaturePic'
+localhost - - [09/Jun/2014 12:01:55] "GET /operation/weight/prepare_training_data HTTP/1.1" 500 2132
+Traceback (most recent call last):
+  File "srfe.py", line 8, in <module>
+    from snsapi.snspocket import SNSPocket
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/__init__.py", line 4, in <module>
+    import utils
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/utils.py", line 166, in <module>
+    from dateutil import parser as dtparser, tz
+ImportError: No module named dateutil
+Traceback (most recent call last):
+  File "srfe.py", line 8, in <module>
+    from snsapi.snspocket import SNSPocket
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/__init__.py", line 4, in <module>
+    import utils
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/utils.py", line 166, in <module>
+    from dateutil import parser as dtparser, tz
+ImportError: No module named dateutil
+Traceback (most recent call last):
+  File "srfe.py", line 8, in <module>
+    from snsapi.snspocket import SNSPocket
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/__init__.py", line 4, in <module>
+    import utils
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/utils.py", line 166, in <module>
+    from dateutil import parser as dtparser, tz
+ImportError: No module named dateutil
+[INFO][20140721-111753]Read configs done. Add 2 channels
+[INFO][20140721-111753]Read saved token for 'instag' successfully
+[INFO][20140721-111753]Read saved token for 'huhu' successfully
+Traceback (most recent call last):
+  File "srfe.py", line 653, in <module>
+    user_sp = begin_user_thread(user)
+  File "srfe.py", line 592, in begin_user_thread
+    q = SRFEQueue(sp)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 70, in __init__
+    from ranking import score
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/score.py", line 21, in <module>
+    from feature import Feature
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 48, in Feature
+    mo = __import__("ranking.plugin.%s" % module_name, fromlist=["ranking.plugin"])
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/plugin/topic.py", line 14, in <module>
+    from ..wordseg import wordseg_clean
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/wordseg.py", line 4, in <module>
+    import mmseg
+ImportError: No module named mmseg
+[INFO][20140721-111816]Read configs done. Add 2 channels
+[INFO][20140721-111816]Read saved token for 'instag' successfully
+[INFO][20140721-111816]Read saved token for 'huhu' successfully
+Traceback (most recent call last):
+  File "srfe.py", line 653, in <module>
+    user_sp = begin_user_thread(user)
+  File "srfe.py", line 592, in begin_user_thread
+    q = SRFEQueue(sp)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 70, in __init__
+    from ranking import score
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/score.py", line 21, in <module>
+    from feature import Feature
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 48, in Feature
+    mo = __import__("ranking.plugin.%s" % module_name, fromlist=["ranking.plugin"])
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/plugin/topic.py", line 14, in <module>
+    from ..wordseg import wordseg_clean
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/wordseg.py", line 11, in <module>
+    tp_dict =  mmseg.Dictionary.dictionaries
+AttributeError: 'module' object has no attribute 'Dictionary'
+[INFO][20140721-112005]Read configs done. Add 2 channels
+[INFO][20140721-112005]Read saved token for 'instag' successfully
+[INFO][20140721-112005]Read saved token for 'huhu' successfully
+Traceback (most recent call last):
+  File "srfe.py", line 653, in <module>
+    user_sp = begin_user_thread(user)
+  File "srfe.py", line 592, in begin_user_thread
+    q = SRFEQueue(sp)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 70, in __init__
+    from ranking import score
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/score.py", line 21, in <module>
+    from feature import Feature
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 48, in Feature
+    mo = __import__("ranking.plugin.%s" % module_name, fromlist=["ranking.plugin"])
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/plugin/topic.py", line 14, in <module>
+    from ..wordseg import wordseg_clean
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/wordseg.py", line 11, in <module>
+    tp_dict =  mmseg.Dictionary.dictionaries
+AttributeError: 'module' object has no attribute 'Dictionary'
+[INFO][20140721-112744]Read configs done. Add 2 channels
+[INFO][20140721-112744]Read saved token for 'instag' successfully
+[INFO][20140721-112744]Read saved token for 'huhu' successfully
+Traceback (most recent call last):
+  File "srfe.py", line 653, in <module>
+    user_sp = begin_user_thread(user)
+  File "srfe.py", line 592, in begin_user_thread
+    q = SRFEQueue(sp)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 70, in __init__
+    from ranking import score
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/score.py", line 21, in <module>
+    from feature import Feature
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 48, in Feature
+    mo = __import__("ranking.plugin.%s" % module_name, fromlist=["ranking.plugin"])
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/plugin/topic.py", line 14, in <module>
+    from ..wordseg import wordseg_clean
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/wordseg.py", line 11, in <module>
+    tp_dict =  mmseg.Dictionary.dictionaries
+AttributeError: 'module' object has no attribute 'Dictionary'
+[INFO][20140721-113011]Read configs done. Add 2 channels
+[INFO][20140721-113011]Read saved token for 'instag' successfully
+[INFO][20140721-113011]Read saved token for 'huhu' successfully
+Traceback (most recent call last):
+  File "srfe.py", line 653, in <module>
+    user_sp = begin_user_thread(user)
+  File "srfe.py", line 592, in begin_user_thread
+    q = SRFEQueue(sp)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 70, in __init__
+    from ranking import score
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/score.py", line 21, in <module>
+    from feature import Feature
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 29, in <module>
+    class Feature(object):
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/feature.py", line 48, in Feature
+    mo = __import__("ranking.plugin.%s" % module_name, fromlist=["ranking.plugin"])
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/plugin/topic.py", line 14, in <module>
+    from ..wordseg import wordseg_clean
+  File "/home/lenovo/Downloads/tanksu/sns-router/ranking/wordseg.py", line 11, in <module>
+    tp_dict =  mmseg.Dictionary.dictionaries
+AttributeError: 'module' object has no attribute 'Dictionary'
+[INFO][20140721-113442]Read configs done. Add 2 channels
+[INFO][20140721-113442]Read saved token for 'instag' successfully
+[INFO][20140721-113442]Read saved token for 'huhu' successfully
+[WARNING][20140721-113442]No "conf/autoweight.json"!
+[INFO][20140721-113442]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+[INFO][20140721-113442]Starting new HTTPS connection (1): api.instagram.com
+[INFO][20140721-113442]Read configs done. Add 0 channels
+[WARNING][20140721-113442]No conf/queue.json, use defaults
+[INFO][20140721-113442]Input 0 new message
+[INFO][20140721-113442]Read configs done. Add 1 channels
+[INFO][20140721-113442]RSS platform do not need auth!
+[WARNING][20140721-113442]No conf/queue.json, use defaults
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-113442]save configs done
+[INFO][20140721-113442]Read 4 statuses
+[INFO][20140721-113444]Read 20 statuses from 'instag'
+[INFO][20140721-113444]Read 20 statuses
+[INFO][20140721-113444]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-113444]Input 4 new message
+[INFO][20140721-113444]save configs done
+[INFO][20140721-113444]Read 15 statuses from 'huhu'
+[INFO][20140721-113444]Read 15 statuses
+[INFO][20140721-113445]Input 1 new message
+[INFO][20140721-113445]save configs done
+[WARNING][20140721-115046]/
+[INFO][20140721-115046]Read configs done. Add 2 channels
+[INFO][20140721-115046]Read saved token for 'instag' successfully
+[INFO][20140721-115046]Read saved token for 'huhu' successfully
+[WARNING][20140721-115046]No "conf/autoweight.json"!
+[INFO][20140721-115046]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+[INFO][20140721-115046]Starting new HTTPS connection (1): api.instagram.com
+[INFO][20140721-115046]Read configs done. Add 0 channels
+[WARNING][20140721-115046]No conf/queue.json, use defaults
+[INFO][20140721-115046]Input 0 new message
+[INFO][20140721-115046]Read configs done. Add 1 channels
+[INFO][20140721-115046]RSS platform do not need auth!
+[WARNING][20140721-115046]No conf/queue.json, use defaults
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-115047]save configs done
+[INFO][20140721-115048]Read 4 statuses
+[INFO][20140721-115048]Input 0 new message
+[INFO][20140721-115048]save configs done
+[INFO][20140721-115049]Read 20 statuses from 'instag'
+[INFO][20140721-115049]Read 20 statuses
+[INFO][20140721-115049]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-115050]Read 15 statuses from 'huhu'
+[INFO][20140721-115050]Read 15 statuses
+[INFO][20140721-115050]Input 0 new message
+[INFO][20140721-115051]save configs done
+[WARNING][20140721-115053]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+[WARNING][20140721-115054]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 86, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 303, in operation_train
+    re = q.train(step)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 781, in train
+    aw.sgd(step)
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/utils.py", line 280, in report_time_wrapper
+    ret = func(*al, **ad)
+  File "/home/lenovo/Downloads/tanksu/sns-router/analysis/autoweight.py", line 291, in sgd
+    tmp.append(self.order[random.randint(0, M-1)])
+  File "/usr/lib/python2.7/random.py", line 241, in randint
+    return self.randrange(a, b+1)
+  File "/usr/lib/python2.7/random.py", line 217, in randrange
+    raise ValueError, "empty range for randrange() (%d,%d, %d)" % (istart, istop, width)
+ValueError: empty range for randrange() (0,0, 0)
+[WARNING][20140721-115135]/
+[INFO][20140721-115135]Read configs done. Add 2 channels
+[INFO][20140721-115135]Read saved token for 'instag' successfully
+[INFO][20140721-115135]Read saved token for 'huhu' successfully
+[WARNING][20140721-115135]No "conf/autoweight.json"!
+[INFO][20140721-115135]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+[INFO][20140721-115135]Starting new HTTPS connection (1): api.instagram.com
+[INFO][20140721-115135]Read configs done. Add 0 channels
+[WARNING][20140721-115135]No conf/queue.json, use defaults
+[INFO][20140721-115135]Input 0 new message
+[INFO][20140721-115135]Read configs done. Add 1 channels
+[INFO][20140721-115135]RSS platform do not need auth!
+[WARNING][20140721-115135]No conf/queue.json, use defaults
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-115135]save configs done
+[INFO][20140721-115137]Read 20 statuses from 'instag'
+[INFO][20140721-115137]Read 20 statuses
+[INFO][20140721-115137]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-115137]Read 15 statuses from 'huhu'
+[INFO][20140721-115137]Read 15 statuses
+[INFO][20140721-115137]Input 0 new message
+[INFO][20140721-115138]Read 0 statuses
+[INFO][20140721-115138]Input 0 new message
+[INFO][20140721-115138]save configs done
+[INFO][20140721-115138]save configs done
+nohup: ignoring input
+[WARNING][20140721-115349]/
+[INFO][20140721-115349]Read configs done. Add 2 channels
+[INFO][20140721-115349]Read saved token for 'instag' successfully
+[INFO][20140721-115349]Read saved token for 'huhu' successfully
+[WARNING][20140721-115349]No "conf/autoweight.json"!
+[INFO][20140721-115349]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+[INFO][20140721-115349]Starting new HTTPS connection (1): api.instagram.com
+[INFO][20140721-115349]Read configs done. Add 0 channels
+[WARNING][20140721-115349]No conf/queue.json, use defaults
+[INFO][20140721-115349]Input 0 new message
+[INFO][20140721-115349]Read configs done. Add 1 channels
+[INFO][20140721-115349]RSS platform do not need auth!
+[WARNING][20140721-115349]No conf/queue.json, use defaults
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-115349]save configs done
+[INFO][20140721-115350]Read 4 statuses
+[INFO][20140721-115350]Input 0 new message
+[INFO][20140721-115350]save configs done
+[INFO][20140721-115351]Read 20 statuses from 'instag'
+[INFO][20140721-115351]Read 20 statuses
+[INFO][20140721-115351]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-115351]Read 15 statuses from 'huhu'
+[INFO][20140721-115351]Read 15 statuses
+[INFO][20140721-115351]Input 0 new message
+[INFO][20140721-115351]save configs done
+nohup: ignoring input
+[WARNING][20140721-115932]/
+[INFO][20140721-115932]Read configs done. Add 2 channels
+[INFO][20140721-115932]Read saved token for 'instag' successfully
+[INFO][20140721-115932]Read saved token for 'huhu' successfully
+[WARNING][20140721-115932]No "conf/autoweight.json"!
+[INFO][20140721-115932]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+[INFO][20140721-115932]Read configs done. Add 0 channels
+[WARNING][20140721-115932]No conf/queue.json, use defaults
+[INFO][20140721-115932]Starting new HTTPS connection (1): api.instagram.com
+[INFO][20140721-115932]Input 0 new message
+[INFO][20140721-115932]Read configs done. Add 1 channels
+[INFO][20140721-115932]RSS platform do not need auth!
+[WARNING][20140721-115932]No conf/queue.json, use defaults
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-115932]save configs done
+[INFO][20140721-115933]Read 20 statuses from 'instag'
+[INFO][20140721-115933]Read 20 statuses
+[INFO][20140721-115933]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-115934]Read 15 statuses from 'huhu'
+[INFO][20140721-115934]Read 15 statuses
+[INFO][20140721-115934]Input 0 new message
+[INFO][20140721-115934]save configs done
+[INFO][20140721-115936]Read 4 statuses
+[INFO][20140721-115936]Input 0 new message
+[INFO][20140721-115936]save configs done
+[WARNING][20140721-115949]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+[WARNING][20140721-115950]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+[WARNING][20140721-115952]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 86, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 303, in operation_train
+    re = q.train(step)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 781, in train
+    aw.sgd(step)
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/utils.py", line 280, in report_time_wrapper
+    ret = func(*al, **ad)
+  File "/home/lenovo/Downloads/tanksu/sns-router/analysis/autoweight.py", line 291, in sgd
+    tmp.append(self.order[random.randint(0, M-1)])
+  File "/usr/lib/python2.7/random.py", line 241, in randint
+    return self.randrange(a, b+1)
+  File "/usr/lib/python2.7/random.py", line 217, in randrange
+    raise ValueError, "empty range for randrange() (%d,%d, %d)" % (istart, istop, width)
+ValueError: empty range for randrange() (0,0, 0)
+nohup: ignoring input
+[WARNING][20140721-120729]/
+[INFO][20140721-120729]Read configs done. Add 2 channels
+[INFO][20140721-120729]Read saved token for 'instag' successfully
+[INFO][20140721-120729]Read saved token for 'huhu' successfully
+[WARNING][20140721-120729]No "conf/autoweight.json"!
+[INFO][20140721-120729]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+[INFO][20140721-120729]Read configs done. Add 0 channels
+[WARNING][20140721-120729]No conf/queue.json, use defaults
+[INFO][20140721-120729]Starting new HTTPS connection (1): api.instagram.com
+[INFO][20140721-120729]Input 0 new message
+[INFO][20140721-120729]Read configs done. Add 1 channels
+[INFO][20140721-120729]RSS platform do not need auth!
+[WARNING][20140721-120729]No conf/queue.json, use defaults
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-120729]save configs done
+[INFO][20140721-120729]Read 4 statuses
+[INFO][20140721-120729]Input 0 new message
+[INFO][20140721-120730]save configs done
+[INFO][20140721-120732]Read 20 statuses from 'instag'
+[INFO][20140721-120732]Read 20 statuses
+[INFO][20140721-120732]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-120733]Read 15 statuses from 'huhu'
+[INFO][20140721-120733]Read 15 statuses
+[INFO][20140721-120733]Input 0 new message
+[INFO][20140721-120734]save configs done
+[WARNING][20140721-120736]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+[WARNING][20140721-120738]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+[WARNING][20140721-120739]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+[WARNING][20140721-120741]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}, 4: {'username': u'xhhxhhxhh', 'token': None, 'password': u'!((@!)@*', 'generate_time': None}, 7: {'username': u'wcyz', 'token': u'6c1bb50b2c2e146ec3d578a0ad525f7f', 'password': u'1234', 'generate_time': 1404115129.51}}
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 86, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 303, in operation_train
+    re = q.train(step)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 781, in train
+    aw.sgd(step)
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/utils.py", line 280, in report_time_wrapper
+    ret = func(*al, **ad)
+  File "/home/lenovo/Downloads/tanksu/sns-router/analysis/autoweight.py", line 291, in sgd
+    tmp.append(self.order[random.randint(0, M-1)])
+  File "/usr/lib/python2.7/random.py", line 241, in randint
+    return self.randrange(a, b+1)
+  File "/usr/lib/python2.7/random.py", line 217, in randrange
+    raise ValueError, "empty range for randrange() (%d,%d, %d)" % (istart, istop, width)
+ValueError: empty range for randrange() (0,0, 0)
+nohup: ignoring input
+[WARNING][20140721-131753]/
+[INFO][20140721-131753]Read configs done. Add 2 channels
+[INFO][20140721-131753]Read saved token for 'instag' successfully
+[INFO][20140721-131753]Read saved token for 'huhu' successfully
+[WARNING][20140721-131753]No "conf/autoweight.json"!
+[INFO][20140721-131753]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-131753]Starting new HTTPS connection (1): api.instagram.com
+[WARNING][20140721-131757]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}}
+[WARNING][20140721-131759]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}}
+[INFO][20140721-131801]Read 20 statuses from 'instag'
+[INFO][20140721-131801]Read 20 statuses
+[INFO][20140721-131801]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-131807]Read 15 statuses from 'huhu'
+[INFO][20140721-131807]Read 15 statuses
+[INFO][20140721-131807]Input 0 new message
+[INFO][20140721-131808]save configs done
+[WARNING][20140721-131810]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}}
+[WARNING][20140721-131811]29
+[WARNING][20140721-131812]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}}
+Traceback (most recent call last):
+  File "bottle/bottle.py", line 763, in _handle
+    return route.call(**args)
+  File "bottle/bottle.py", line 1572, in wrapper
+    rv = callback(*a, **ka)
+  File "bottle/bottle.py", line 3132, in wrapper
+    result = func(*args, **kwargs)
+  File "srfe.py", line 86, in wrapper_check_login
+    return func(*al, **ad)
+  File "srfe.py", line 303, in operation_train
+    re = q.train(step)
+  File "/home/lenovo/Downloads/tanksu/sns-router/srfequeue.py", line 780, in train
+    aw = AutoWeight(samples, order, iweight, LearnerSigmoid())
+  File "/home/lenovo/Downloads/tanksu/sns-router/analysis/autoweight.py", line 227, in __init__
+    self.X = self.msg2X(samples)
+  File "/home/lenovo/Downloads/tanksu/sns-router/analysis/autoweight.py", line 279, in msg2X
+    x.append(m.feature[name])
+KeyError: u'user_rubbish'
+[WARNING][20140721-132043]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}}
+[WARNING][20140721-132044]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}}
+[WARNING][20140721-132047]{3: {'username': u'wcyz666', 'token': u'f49027f5c3353172ab238281e900a321', 'password': u'123456', 'generate_time': 1405914185.769466}}
+[INFO][20140721-132308]Starting new HTTPS connection (1): api.instagram.com
+[INFO][20140721-132315]Read 20 statuses from 'instag'
+[INFO][20140721-132315]Read 20 statuses
+[INFO][20140721-132315]Starting new HTTPS connection (1): api.renren.com
+[INFO][20140721-132315]Read 15 statuses from 'huhu'
+[INFO][20140721-132315]Read 15 statuses
+[INFO][20140721-132315]Input 0 new message
+[INFO][20140721-132316]save configs done
+nohup: ignoring input
+Traceback (most recent call last):
+  File "srfe.py", line 8, in <module>
+    from snsapi.snspocket import SNSPocket
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/__init__.py", line 4, in <module>
+    import utils
+  File "/home/lenovo/Downloads/tanksu/sns-router/snsapi/utils.py", line 166, in <module>
+    from dateutil import parser as dtparser, tz
+ImportError: No module named dateutil
+nohup: ignoring input
+[WARNING][20140721-132641]/
+[INFO][20140721-132641]Read configs done. Add 2 channels
+[INFO][20140721-132641]Read saved token for 'instag' successfully
+[INFO][20140721-132641]Read saved token for 'huhu' successfully
+[WARNING][20140721-132641]No "conf/autoweight.json"!
+[INFO][20140721-132641]Loaded weights: {u'user_rubbish': -10.85262476540269, u'topic_sports': -0.6193383401781696, u'user_news': -1.7422349079334667, u'user_sports': -2.3731017165562442, u'user_friends': 15.986151639005701, u'user_tech': -0.6600715386818123, u'topic_friends': 10.174826087220403, u'topic_news': 0.18297358838565506, u'topic_tech': -0.40652889381301005, u'topic_rubbish': -6.909108803089207}
+Bottle v0.12-dev server starting up (using CherryPyServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140721-132641]Starting new HTTPS connection (1): api.instagram.com

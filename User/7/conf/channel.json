@@ -1,0 +1,21 @@
+[
+  {
+    "need_auth": false, 
+    "expire_after": -1, 
+    "user_id": "", 
+    "platform": "RSS", 
+    "url": "http://zhan.renren.com/snsinsight/rss", 
+    "app_secret": "", 
+    "app_key": "", 
+    "channel_name": "Rss1", 
+    "is_authed": true, 
+    "auth_info": {
+      "save_token_file": "(default)", 
+      "callback_url": "http://snsapi.sinaapp.com/auth.php", 
+      "cmd_fetch_code": "(default)", 
+      "cmd_request_url": "(default)"
+    }, 
+    "open": "yes", 
+    "method": "home_timeline"
+  }
+]

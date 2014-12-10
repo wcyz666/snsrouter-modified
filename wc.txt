@@ -1,0 +1,1049 @@
+文件夹 PATH 列表
+卷序列号为 4631-CBD0
+F:.
+│  .gitmodules
+│  backup.sh
+│  channel_testdb.json
+│  clear-env.sh
+│  cli.sh
+│  commencer.sh
+│  distribute.rss
+│  errorfile
+│  gentdict.py
+│  genudict.py
+│  hooks.py
+│  hooks.pyc
+│  kill.sh
+│  logfile
+│  new  1.txt
+│  README.md
+│  run.sh
+│  sqlite3.exe
+│  srfe.log
+│  srfe.pid
+│  srfe.py
+│  srfequeue.py
+│  srfequeue.pyc
+│  srfe_queue.db
+│  start.sh
+│  status.sh
+│  test.db
+│  test_feature.py
+│  wc.json
+│  wc.txt
+│  
+├─.git
+│  │  config
+│  │  description
+│  │  FETCH_HEAD
+│  │  HEAD
+│  │  index
+│  │  packed-refs
+│  │  
+│  ├─branches
+│  ├─hooks
+│  │      applypatch-msg.sample
+│  │      commit-msg.sample
+│  │      post-update.sample
+│  │      pre-applypatch.sample
+│  │      pre-commit.sample
+│  │      pre-push.sample
+│  │      pre-rebase.sample
+│  │      prepare-commit-msg.sample
+│  │      update.sample
+│  │      
+│  ├─info
+│  │      exclude
+│  │      
+│  ├─logs
+│  │  │  HEAD
+│  │  │  
+│  │  └─refs
+│  │      ├─heads
+│  │      │      master
+│  │      │      
+│  │      └─remotes
+│  │          └─origin
+│  │              └─pr
+│  │                      15
+│  │                      16
+│  │                      
+│  ├─modules
+│  │  ├─bottle
+│  │  │  │  config
+│  │  │  │  description
+│  │  │  │  HEAD
+│  │  │  │  index
+│  │  │  │  packed-refs
+│  │  │  │  
+│  │  │  ├─branches
+│  │  │  ├─hooks
+│  │  │  │      applypatch-msg.sample
+│  │  │  │      commit-msg.sample
+│  │  │  │      post-update.sample
+│  │  │  │      pre-applypatch.sample
+│  │  │  │      pre-commit.sample
+│  │  │  │      pre-rebase.sample
+│  │  │  │      prepare-commit-msg.sample
+│  │  │  │      update.sample
+│  │  │  │      
+│  │  │  ├─info
+│  │  │  │      exclude
+│  │  │  │      
+│  │  │  ├─logs
+│  │  │  │  │  HEAD
+│  │  │  │  │  
+│  │  │  │  └─refs
+│  │  │  │      └─heads
+│  │  │  │              master
+│  │  │  │              
+│  │  │  ├─objects
+│  │  │  │  ├─info
+│  │  │  │  └─pack
+│  │  │  │          pack-aa9dec6f1983ed41839cf60f17d73774a585bb9a.idx
+│  │  │  │          pack-aa9dec6f1983ed41839cf60f17d73774a585bb9a.pack
+│  │  │  │          
+│  │  │  └─refs
+│  │  │      ├─heads
+│  │  │      │      master
+│  │  │      │      
+│  │  │      ├─remotes
+│  │  │      │  └─origin
+│  │  │      │          HEAD
+│  │  │      │          
+│  │  │      └─tags
+│  │  ├─pymmseg-cpp
+│  │  │  │  config
+│  │  │  │  description
+│  │  │  │  HEAD
+│  │  │  │  index
+│  │  │  │  packed-refs
+│  │  │  │  
+│  │  │  ├─branches
+│  │  │  ├─hooks
+│  │  │  │      applypatch-msg.sample
+│  │  │  │      commit-msg.sample
+│  │  │  │      post-update.sample
+│  │  │  │      pre-applypatch.sample
+│  │  │  │      pre-commit.sample
+│  │  │  │      pre-rebase.sample
+│  │  │  │      prepare-commit-msg.sample
+│  │  │  │      update.sample
+│  │  │  │      
+│  │  │  ├─info
+│  │  │  │      exclude
+│  │  │  │      
+│  │  │  ├─logs
+│  │  │  │  │  HEAD
+│  │  │  │  │  
+│  │  │  │  └─refs
+│  │  │  │      └─heads
+│  │  │  │              master
+│  │  │  │              
+│  │  │  ├─objects
+│  │  │  │  ├─info
+│  │  │  │  └─pack
+│  │  │  │          pack-53bd6dd897f02a55e5d6bdc55b1aae4e024a2d32.idx
+│  │  │  │          pack-53bd6dd897f02a55e5d6bdc55b1aae4e024a2d32.pack
+│  │  │  │          
+│  │  │  └─refs
+│  │  │      ├─heads
+│  │  │      │      master
+│  │  │      │      
+│  │  │      ├─remotes
+│  │  │      │  └─origin
+│  │  │      │          HEAD
+│  │  │      │          
+│  │  │      └─tags
+│  │  └─snsapi
+│  │      │  config
+│  │      │  description
+│  │      │  FETCH_HEAD
+│  │      │  HEAD
+│  │      │  packed-refs
+│  │      │  
+│  │      ├─branches
+│  │      ├─hooks
+│  │      │      applypatch-msg.sample
+│  │      │      commit-msg.sample
+│  │      │      post-update.sample
+│  │      │      pre-applypatch.sample
+│  │      │      pre-commit.sample
+│  │      │      pre-rebase.sample
+│  │      │      prepare-commit-msg.sample
+│  │      │      update.sample
+│  │      │      
+│  │      ├─info
+│  │      │      exclude
+│  │      │      
+│  │      ├─logs
+│  │      │  │  HEAD
+│  │      │  │  
+│  │      │  └─refs
+│  │      │      └─heads
+│  │      │              master
+│  │      │              
+│  │      ├─objects
+│  │      │  ├─info
+│  │      │  └─pack
+│  │      │          pack-580eaf67f39a16283da3e0ebad7004713cdb5811.idx
+│  │      │          pack-580eaf67f39a16283da3e0ebad7004713cdb5811.pack
+│  │      │          
+│  │      └─refs
+│  │          ├─heads
+│  │          │      master
+│  │          │      
+│  │          ├─remotes
+│  │          │  └─origin
+│  │          │          HEAD
+│  │          │          
+│  │          └─tags
+│  ├─objects
+│  │  ├─info
+│  │  └─pack
+│  │          pack-5385eae7ea93d1c47c1eac69239afabbc4ca1942.idx
+│  │          pack-5385eae7ea93d1c47c1eac69239afabbc4ca1942.pack
+│  │          
+│  └─refs
+│      ├─heads
+│      │      master
+│      │      
+│      ├─remotes
+│      │  └─origin
+│      │      │  HEAD
+│      │      │  
+│      │      └─pr
+│      │              15
+│      │              16
+│      │              
+│      └─tags
+├─analysis
+│  │  .DS_Store
+│  │  autoweight.py
+│  │  autoweight.pyc
+│  │  basic.sh
+│  │  evaluation.py
+│  │  evaluation.pyc
+│  │  exp.py
+│  │  extract-face.sh
+│  │  extract-log.sh
+│  │  extract-marked.sh
+│  │  extract-msg.sh
+│  │  extract-tag.sh
+│  │  extract-term.sh
+│  │  extract-text.sh
+│  │  gentdict.py
+│  │  genudict.py
+│  │  plot-all.sh
+│  │  plot-hist.sh
+│  │  pre.py
+│  │  README.md
+│  │  run-all.sh
+│  │  score.py
+│  │  select_samples.py
+│  │  select_samples.pyc
+│  │  select_samples.py~
+│  │  sqlite2pickle.py
+│  │  srfe.db
+│  │  urlext.py
+│  │  urlext.pyc
+│  │  userext.py
+│  │  userext.pyc
+│  │  wordseg.py
+│  │  __init__.py
+│  │  __init__.pyc
+│  │  
+│  ├─data
+│  │      tag.user.news
+│  │      tag.user.tech
+│  │      text.all
+│  │      text.mark.news
+│  │      text.mark.tech
+│  │      
+│  ├─kdb
+│  │      tdict.pickle
+│  │      term.all
+│  │      term.mark.news
+│  │      term.mark.tech
+│  │      user.mark.news
+│  │      user.mark.tech
+│  │      
+│  ├─other
+│  │      get-sina-face.py
+│  │      
+│  ├─plot
+│  │      hist.t.html.end
+│  │      hist.t.html.front
+│  │      plot.t.html
+│  │      plots.html
+│  │      sgd-echo.html
+│  │      
+│  └─weka
+│          README.md
+│          
+├─bottle
+│  │  .git
+│  │  .gitignore
+│  │  AUTHORS
+│  │  bottle.py
+│  │  bottle.pyc
+│  │  LICENSE
+│  │  Makefile
+│  │  MANIFEST.in
+│  │  README.rst
+│  │  setup.py
+│  │  tox.ini
+│  │  
+│  ├─docs
+│  │  │  api.rst
+│  │  │  async.rst
+│  │  │  changelog.rst
+│  │  │  conf.py
+│  │  │  contact.rst
+│  │  │  deployment.rst
+│  │  │  development.rst
+│  │  │  faq.rst
+│  │  │  index.rst
+│  │  │  Makefile
+│  │  │  plugindev.rst
+│  │  │  recipes.rst
+│  │  │  routing.rst
+│  │  │  stpl.rst
+│  │  │  tutorial.rst
+│  │  │  tutorial_app.rst
+│  │  │  
+│  │  ├─plugins
+│  │  │      index.rst
+│  │  │      sqlite.rst
+│  │  │      werkzeug.rst
+│  │  │      
+│  │  ├─_static
+│  │  │      .dummy
+│  │  │      bottle.css_t
+│  │  │      default.js
+│  │  │      favicon.ico
+│  │  │      link_icon.png
+│  │  │      logo_bg.png
+│  │  │      logo_full.png
+│  │  │      logo_icon.png
+│  │  │      logo_nav.png
+│  │  │      logo_reddit.png
+│  │  │      myface.png
+│  │  │      myface_small.png
+│  │  │      paypal.png
+│  │  │      
+│  │  └─_templates
+│  │          .dummy
+│  │          donation.html
+│  │          layout.html
+│  │          page.html
+│  │          release-warning.html
+│  │          sidebar-intro.html
+│  │          
+│  ├─plugins
+│  │  ├─sqlite
+│  │  │      bottle_sqlite.py
+│  │  │      README
+│  │  │      setup.py
+│  │  │      test.py
+│  │  │      
+│  │  └─werkzeug
+│  │          bottle_werkzeug.py
+│  │          README
+│  │          setup.py
+│  │          test.py
+│  │          
+│  └─test
+│      │  servertest.py
+│      │  testall.py
+│      │  test_configdict.py
+│      │  test_contextlocals.py
+│      │  test_environ.py
+│      │  test_formsdict.py
+│      │  test_importhook.py
+│      │  test_jinja2.py
+│      │  test_mako.py
+│      │  test_mdict.py
+│      │  test_mount.py
+│      │  test_outputfilter.py
+│      │  test_plugins.py
+│      │  test_resources.py
+│      │  test_router.py
+│      │  test_securecookies.py
+│      │  test_sendfile.py
+│      │  test_server.py
+│      │  test_stpl.py
+│      │  test_wsgi.py
+│      │  tools.py
+│      │  
+│      └─views
+│              jinja2_base.tpl
+│              jinja2_inherit.tpl
+│              jinja2_simple.tpl
+│              mako_base.tpl
+│              mako_inherit.tpl
+│              mako_simple.tpl
+│              stpl_include.tpl
+│              stpl_simple.tpl
+│              stpl_t2base.tpl
+│              stpl_t2inc.tpl
+│              stpl_t2main.tpl
+│              stpl_unicode.tpl
+│              
+├─cherrypy
+│  │  cherryd
+│  │  favicon.ico
+│  │  LICENSE.txt
+│  │  _cpchecker.py
+│  │  _cpchecker.pyc
+│  │  _cpcompat.py
+│  │  _cpcompat.pyc
+│  │  _cpcompat_subprocess.py
+│  │  _cpconfig.py
+│  │  _cpconfig.pyc
+│  │  _cpdispatch.py
+│  │  _cpdispatch.pyc
+│  │  _cperror.py
+│  │  _cperror.pyc
+│  │  _cplogging.py
+│  │  _cplogging.pyc
+│  │  _cpmodpy.py
+│  │  _cpnative_server.py
+│  │  _cpreqbody.py
+│  │  _cpreqbody.pyc
+│  │  _cprequest.py
+│  │  _cprequest.pyc
+│  │  _cpserver.py
+│  │  _cpserver.pyc
+│  │  _cpthreadinglocal.py
+│  │  _cptools.py
+│  │  _cptools.pyc
+│  │  _cptree.py
+│  │  _cptree.pyc
+│  │  _cpwsgi.py
+│  │  _cpwsgi.pyc
+│  │  _cpwsgi_server.py
+│  │  _cpwsgi_server.pyc
+│  │  __init__.py
+│  │  __init__.pyc
+│  │  
+│  ├─lib
+│  │      auth.py
+│  │      auth.pyc
+│  │      auth_basic.py
+│  │      auth_basic.pyc
+│  │      auth_digest.py
+│  │      auth_digest.pyc
+│  │      caching.py
+│  │      caching.pyc
+│  │      covercp.py
+│  │      cpstats.py
+│  │      cptools.py
+│  │      cptools.pyc
+│  │      encoding.py
+│  │      encoding.pyc
+│  │      gctools.py
+│  │      http.py
+│  │      httpauth.py
+│  │      httpauth.pyc
+│  │      httputil.py
+│  │      httputil.pyc
+│  │      jsontools.py
+│  │      jsontools.pyc
+│  │      profiler.py
+│  │      reprconf.py
+│  │      reprconf.pyc
+│  │      sessions.py
+│  │      sessions.pyc
+│  │      static.py
+│  │      static.pyc
+│  │      xmlrpcutil.py
+│  │      xmlrpcutil.pyc
+│  │      __init__.py
+│  │      __init__.pyc
+│  │      
+│  ├─process
+│  │      plugins.py
+│  │      plugins.pyc
+│  │      servers.py
+│  │      servers.pyc
+│  │      win32.py
+│  │      win32.pyc
+│  │      wspbus.py
+│  │      wspbus.pyc
+│  │      __init__.py
+│  │      __init__.pyc
+│  │      
+│  ├─scaffold
+│  │  │  apache-fcgi.conf
+│  │  │  example.conf
+│  │  │  site.conf
+│  │  │  __init__.py
+│  │  │  
+│  │  └─static
+│  │          made_with_cherrypy_small.png
+│  │          
+│  ├─test
+│  │  │  benchmark.py
+│  │  │  checkerdemo.py
+│  │  │  helper.py
+│  │  │  logtest.py
+│  │  │  modfastcgi.py
+│  │  │  modfcgid.py
+│  │  │  modpy.py
+│  │  │  modwsgi.py
+│  │  │  sessiondemo.py
+│  │  │  style.css
+│  │  │  test.pem
+│  │  │  test_auth_basic.py
+│  │  │  test_auth_digest.py
+│  │  │  test_bus.py
+│  │  │  test_caching.py
+│  │  │  test_compat.py
+│  │  │  test_config.py
+│  │  │  test_config_server.py
+│  │  │  test_conn.py
+│  │  │  test_core.py
+│  │  │  test_dynamicobjectmapping.py
+│  │  │  test_encoding.py
+│  │  │  test_etags.py
+│  │  │  test_http.py
+│  │  │  test_httpauth.py
+│  │  │  test_httplib.py
+│  │  │  test_json.py
+│  │  │  test_logging.py
+│  │  │  test_mime.py
+│  │  │  test_misc_tools.py
+│  │  │  test_objectmapping.py
+│  │  │  test_proxy.py
+│  │  │  test_refleaks.py
+│  │  │  test_request_obj.py
+│  │  │  test_routes.py
+│  │  │  test_session.py
+│  │  │  test_sessionauthenticate.py
+│  │  │  test_states.py
+│  │  │  test_static.py
+│  │  │  test_tools.py
+│  │  │  test_tutorials.py
+│  │  │  test_virtualhost.py
+│  │  │  test_wsgiapps.py
+│  │  │  test_wsgi_ns.py
+│  │  │  test_wsgi_vhost.py
+│  │  │  test_xmlrpc.py
+│  │  │  webtest.py
+│  │  │  _test_decorators.py
+│  │  │  _test_states_demo.py
+│  │  │  __init__.py
+│  │  │  
+│  │  └─static
+│  │          dirback.jpg
+│  │          has space.html
+│  │          index.html
+│  │          
+│  ├─tutorial
+│  │      bonus-sqlobject.py
+│  │      custom_error.html
+│  │      pdf_file.pdf
+│  │      README.txt
+│  │      tut01_helloworld.py
+│  │      tut02_expose_methods.py
+│  │      tut03_get_and_post.py
+│  │      tut04_complex_site.py
+│  │      tut05_derived_objects.py
+│  │      tut06_default_method.py
+│  │      tut07_sessions.py
+│  │      tut08_generators_and_yield.py
+│  │      tut09_files.py
+│  │      tut10_http_errors.py
+│  │      tutorial.conf
+│  │      __init__.py
+│  │      
+│  └─wsgiserver
+│          ssl_builtin.py
+│          ssl_pyopenssl.py
+│          wsgiserver2.py
+│          wsgiserver2.pyc
+│          wsgiserver3.py
+│          __init__.py
+│          __init__.pyc
+│          
+├─conf
+│      .DS_Store
+│      autoweight.json
+│      channel.json
+│      channel.json.bak
+│      pocket.json
+│      queue.json
+│      README.md
+│      srfe.json
+│      weights.json
+│      
+├─data
+│      .DS_Store
+│      tag.user.alpha
+│      tag.user.bravo
+│      tag.user.charlie
+│      tag.user.delta
+│      tag.user.echo
+│      tag.user.friends
+│      tag.user.news
+│      tag.user.rubbish
+│      tag.user.sports
+│      tag.user.tech
+│      text.all
+│      text.mark.alpha
+│      text.mark.bravo
+│      text.mark.charlie
+│      text.mark.delta
+│      text.mark.echo
+│      text.mark.friends
+│      text.mark.news
+│      text.mark.rubbish
+│      text.mark.sports
+│      text.mark.tech
+│      user.all
+│      
+├─db-benchmarks
+│      db_benchmark_digest.py
+│      db_benchmark_output.py
+│      db_benchmark_output_ranked.py
+│      
+├─doc
+│  ├─note
+│  │      feature.md
+│  │      micro-framework.md
+│  │      note.md
+│  │      
+│  ├─paper
+│  │      common.tex
+│  │      horse.md
+│  │      Makefile
+│  │      sig-alternate.cls
+│  │      snsrouter.pdf
+│  │      snsrouter.tex
+│  │      
+│  ├─pic
+│  │      echo_add_tag.png
+│  │      echo_feature.png
+│  │      echo_gd_i.png
+│  │      echo_gd_i1.png
+│  │      echo_gd_i2.png
+│  │      echo_preference.png
+│  │      echo_ranked_timeline_before.png
+│  │      snscli.png
+│  │      srfe_home_timeline.png
+│  │      srfe_login.png
+│  │      srfe_ranked_timeline.png
+│  │      
+│  ├─presentation
+│  │      presentation-white.pdf
+│  │      presentation-white.pptx
+│  │      presentation.pdf
+│  │      presentation.pptx
+│  │      slides2pic.sh
+│  │      
+│  ├─proposal
+│  │      proposal.doc
+│  │      proposal.pdf
+│  │      README.md
+│  │      
+│  └─reference
+│          gen_bib.bbl
+│          gen_bib_begin.tex
+│          gen_bib_body.tex
+│          gen_bib_end.tex
+│          getbib.sh
+│          Makefile
+│          manual_bib.tex
+│          
+├─kdb
+│  │  .DS_Store
+│  │  face.SinaWeiboStatus
+│  │  merge.sh
+│  │  prepare_sogo.sh
+│  │  SogouW.tar.gz
+│  │  tdict.pickle
+│  │  term.all
+│  │  term.mark.alpha
+│  │  term.mark.bravo
+│  │  term.mark.charlie
+│  │  term.mark.delta
+│  │  term.mark.echo
+│  │  udict.pickle
+│  │  user.all
+│  │  user.mark.alpha
+│  │  user.mark.bravo
+│  │  user.mark.charlie
+│  │  user.mark.delta
+│  │  user.mark.echo
+│  │  words.dic
+│  │  words.dic.more
+│  │  words.dic.word-sort
+│  │  words.merged.dic
+│  │  
+│  └─Freq
+│          %B4%CA%D0%D4?%C3%F7.txt
+│          SogouLabDic.dic
+│          SogouLabDic.dic.utf-8
+│          SogouLabDic.dic.utf-8.pymmseg-format
+│          SogouLabDic.dic.utf-8.pymmseg-format.word-sort
+│          
+├─pymmseg-cpp
+│  │  .DS_Store
+│  │  .git
+│  │  .gitignore
+│  │  DESCRIPTION
+│  │  MANIFEST.in
+│  │  README
+│  │  setup.py
+│  │  __init__.py
+│  │  
+│  ├─bin
+│  │      pymmseg
+│  │      
+│  ├─build
+│  │  ├─bdist.linux-x86_64
+│  │  ├─lib.linux-x86_64-2.7
+│  │  │  └─mmseg
+│  │  │      │  _mmseg.so
+│  │  │      │  __init__.py
+│  │  │      │  
+│  │  │      └─data
+│  │  │              chars.dic
+│  │  │              words.dic
+│  │  │              
+│  │  ├─scripts-2.7
+│  │  │      pymmseg
+│  │  │      
+│  │  └─temp.linux-x86_64-2.7
+│  │      └─mmseg
+│  │          └─mmseg-cpp
+│  │                  algor.o
+│  │                  dict.o
+│  │                  memory.o
+│  │                  mmseg.o
+│  │                  
+│  ├─dist
+│  │      pymmseg_cpp-1.0.0-py2.7-linux-x86_64.egg
+│  │      
+│  ├─mmseg
+│  │  │  __init__.py
+│  │  │  __init__.pyc
+│  │  │  
+│  │  ├─data
+│  │  │      chars.dic
+│  │  │      words.dic
+│  │  │      
+│  │  └─mmseg-cpp
+│  │          algor.cpp
+│  │          algor.h
+│  │          build.py
+│  │          chunk.h
+│  │          dict.cpp
+│  │          dict.h
+│  │          memory.cpp
+│  │          memory.h
+│  │          mmseg.cpp
+│  │          rules.h
+│  │          token.h
+│  │          utils.h
+│  │          word.h
+│  │          
+│  └─pymmseg_cpp.egg-info
+│          dependency_links.txt
+│          PKG-INFO
+│          SOURCES.txt
+│          top_level.txt
+│          
+├─ranking
+│  │  .DS_Store
+│  │  feature.py
+│  │  feature.pyc
+│  │  score.py
+│  │  score.pyc
+│  │  urlext.py
+│  │  urlext.pyc
+│  │  userext.py
+│  │  userext.pyc
+│  │  wordseg.py
+│  │  wordseg.pyc
+│  │  __init__.py
+│  │  __init__.pyc
+│  │  
+│  └─plugin
+│          base.py
+│          base.pyc
+│          basic.py
+│          basic.pyc
+│          length.py
+│          length.pyc
+│          newtopic.py
+│          newtopic.pyc
+│          newuser.py
+│          newuser.pyc
+│          other.py
+│          pic.py
+│          pic.pyc
+│          platform.py
+│          platform.pyc
+│          README.md
+│          topic.py
+│          topic.pyc
+│          user.py
+│          user.pyc
+│          __init__.py
+│          __init__.pyc
+│          
+├─save
+│      Facebook.token.json
+│      ll.token.json
+│      lll.token.json
+│      placeholder
+│      Renren.token.json
+│      rrrr.token.json
+│      Sina_Weibo.token.json
+│      
+├─snsapi
+│  │  .git
+│  │  .gitignore
+│  │  async.py
+│  │  async.pyc
+│  │  custom_conf.py.example
+│  │  errors.py
+│  │  errors.pyc
+│  │  platform.py
+│  │  platform.pyc
+│  │  snsbase.py
+│  │  snsbase.pyc
+│  │  snsconf.py
+│  │  snsconf.pyc
+│  │  snscrypt.py
+│  │  snslog.py
+│  │  snslog.pyc
+│  │  snspocket.py
+│  │  snspocket.pyc
+│  │  snstype.py
+│  │  snstype.pyc
+│  │  utils.py
+│  │  utils.pyc
+│  │  __init__.py
+│  │  __init__.pyc
+│  │  
+│  ├─data
+│  │      init-channel.json.example
+│  │      snsgui.ini
+│  │      
+│  ├─plugin
+│  │      README.md
+│  │      rss.py
+│  │      rss.pyc
+│  │      sina.py
+│  │      sina.pyc
+│  │      tencent.py
+│  │      tencent.pyc
+│  │      __init__.py
+│  │      __init__.pyc
+│  │      
+│  ├─plugin_trial
+│  │      emails.py
+│  │      emails.pyc
+│  │      emailstest.pyc
+│  │      facebook.py
+│  │      facebook.pyc
+│  │      instagram.py
+│  │      instagram.pyc
+│  │      README.md
+│  │      renren.py
+│  │      renren.pyc
+│  │      sina_wap.pyc
+│  │      sqlite.py
+│  │      sqlite.pyc
+│  │      twitter.py
+│  │      twitter.pyc
+│  │      __init__.py
+│  │      __init__.pyc
+│  │      
+│  └─third
+│      │  facebook.py
+│      │  facebook.pyc
+│      │  feedparser.py
+│      │  feedparser.pyc
+│      │  oauth.py
+│      │  oauth.pyc
+│      │  pyDes.py
+│      │  pyDes.pyc
+│      │  PyRSS2Gen.py
+│      │  PyRSS2Gen.pyc
+│      │  README.md
+│      │  server.py
+│      │  server.pyc
+│      │  timezone_sample.py
+│      │  twitter.py
+│      │  twitter.pyc
+│      │  __init__.py
+│      │  __init__.pyc
+│      │  
+│      ├─instagram
+│      │      bind.py
+│      │      bind.pyc
+│      │      client.py
+│      │      client.pyc
+│      │      helper.py
+│      │      helper.pyc
+│      │      json_import.py
+│      │      json_import.pyc
+│      │      models.py
+│      │      models.pyc
+│      │      oauth2.py
+│      │      oauth2.pyc
+│      │      subscriptions.py
+│      │      __init__.py
+│      │      __init__.pyc
+│      │      
+│      └─oauth2
+│          │  _version.py
+│          │  _version.pyc
+│          │  __init__.py
+│          │  __init__.pyc
+│          │  
+│          └─clients
+│                  imap.py
+│                  smtp.py
+│                  __init__.py
+│                  
+├─tmp
+│      message.pickle
+│      README.md
+│      samples.pickle
+│      tag_mapping.json
+│      workspace.pickle
+│      
+├─User
+│  │  3srfe_queue.db
+│  │  
+│  ├─1
+│  │  │  srfe_queue.db
+│  │  │  
+│  │  ├─conf
+│  │  │      autoweight.json
+│  │  │      channel.json
+│  │  │      channel.json.bak
+│  │  │      pocket.json
+│  │  │      queue.json
+│  │  │      README.md
+│  │  │      srfe.json
+│  │  │      
+│  │  └─save
+│  │          Renren.token.json
+│  │          
+│  ├─2
+│  │  │  srfe_queue.db
+│  │  │  
+│  │  ├─conf
+│  │  └─save
+│  ├─3
+│  │  │  sqlite3.exe
+│  │  │  srfe_queue.db
+│  │  │  
+│  │  ├─conf
+│  │  │      autoweight.json
+│  │  │      channel.json
+│  │  │      channel.json.bak
+│  │  │      pocket.json
+│  │  │      queue.json
+│  │  │      README.md
+│  │  │      srfe.json
+│  │  │      
+│  │  └─save
+│  ├─4
+│  │  │  srfe_queue.db
+│  │  │  
+│  │  ├─conf
+│  │  │      channel.json
+│  │  │      pocket.json
+│  │  │      
+│  │  └─save
+│  ├─5
+│  │  │  srfe_queue.db
+│  │  │  
+│  │  ├─conf
+│  │  │      channel.json
+│  │  │      pocket.json
+│  │  │      
+│  │  └─save
+│  ├─6
+│  │  ├─conf
+│  │  └─save
+│  └─7
+│      │  srfe_queue.db
+│      │  
+│      ├─conf
+│      │      channel.json
+│      │      pocket.json
+│      │      
+│      └─save
+└─views
+    │  bg1.jpg
+    │  bg2.jpg
+    │  config.tpl
+    │  echo.tpl
+    │  footer.tpl
+    │  header.tpl
+    │  home_timeline.tpl
+    │  hook.css~
+    │  index.tpl
+    │  login.tpl
+    │  logout.tpl
+    │  message.tpl
+    │  new_channel.tpl
+    │  operation.tpl
+    │  result.tpl
+    │  sql.tpl
+    │  update.tpl
+    │  
+    ├─css
+    │      bootstrap-switch.css
+    │      bootstrap.min.css
+    │      hook.css
+    │      login.css
+    │      register.css
+    │      
+    ├─html
+    │      config.tpl
+    │      reg.html
+    │      
+    ├─js
+    │      backstrech.js
+    │      backstretch.js
+    │      bootstrap-switch.js
+    │      bootstrap.min.js
+    │      hook.js
+    │      jquery.min.js
+    │      login.js
+    │      polish.js
+    │      user.js
+    │      
+    └─static
+            bg1.jpg
+            bg2.jpg
+            douban.png
+            email.png
+            facebook.png
+            hc_02.jpg
+            hc_btn_01.jpg
+            hook-bg.png
+            hook-bgs.png
+            hook-spinner.gif
+            hook-spinner.png
+            hook-spinner@2x.png
+            hook.png
+            instagram.png
+            like.png
+            logo.png
+            renren.png
+            rss.png
+            sinaweibo.png
+            tencentweibo.png
+            tpti.jpg
+            twitter.png
+            

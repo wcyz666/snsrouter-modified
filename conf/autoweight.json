@@ -1,0 +1,19 @@
+{
+  "preference": [
+    ["tech", "rubbish"],
+    ["news", "rubbish"],
+    ["sports", "rubbish"],
+    ["friends", "tech"],
+    ["friends", "news"],
+    ["friends", "sports"]
+  ],
+  "features": [
+	["basic", "FeatureLength"], 
+	["basic", "FeatureNoise"],
+	["basic", "FeatureLink"],
+	["basic", "FeatureEcho"],
+	["pic", "FeaturePic"]
+  ],
+  "__other_features_you_may_enable_later": [
+  ]
+}

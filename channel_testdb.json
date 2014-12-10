@@ -1,0 +1,12 @@
+[
+  {
+    "channel_name": "feed_hpl_wordpress", 
+    "methods": "home_timeline",
+    "open": "yes",
+    "platform": "RSS", 
+    "url": "http://personal.ie.cuhk.edu.hk/~hpl011/wordpress/?feed=rss2",
+    "home_timeline":{
+      "count": 5
+    }
+  }
+]

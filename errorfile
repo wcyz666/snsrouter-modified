@@ -1,0 +1,129 @@
+[WARNING][20140605-103711]'/home/mobitec/Downloads/sns-router/conf/pocket.json' does not exist. Use default
+[INFO][20140605-103711]Read configs done. Add 5 channels
+[INFO][20140605-103711]SQLite3 channel do not need auth. Try connecting to DB...
+[INFO][20140605-103711]RSS platform do not need auth!
+[INFO][20140605-103711]RSS platform do not need auth!
+[INFO][20140605-103711]RSS platform do not need auth!
+[INFO][20140605-103711]RSS platform do not need auth!
+Bottle v0.12-dev server starting up (using WSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+[INFO][20140605-103711]Read 0 statuses
+[INFO][20140605-103712]Read 5 statuses
+[INFO][20140605-103713]Read 5 statuses
+[INFO][20140605-103714]Read 4 statuses
+[WARNING][20140605-103714]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103714]Read 0 statuses
+[INFO][20140605-103715]Read 5 statuses
+[INFO][20140605-103717]Read 5 statuses
+[INFO][20140605-103717]Read 4 statuses
+[WARNING][20140605-103717]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103717]Read 0 statuses
+[INFO][20140605-103719]Read 5 statuses
+[INFO][20140605-103720]Read 5 statuses
+[INFO][20140605-103721]Read 4 statuses
+[WARNING][20140605-103721]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103721]Read 0 statuses
+[INFO][20140605-103722]Read 5 statuses
+[INFO][20140605-103723]Read 5 statuses
+[INFO][20140605-103724]Read 4 statuses
+[WARNING][20140605-103724]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103724]Read 0 statuses
+[INFO][20140605-103725]Read 5 statuses
+[INFO][20140605-103727]Read 5 statuses
+[INFO][20140605-103727]Read 4 statuses
+[WARNING][20140605-103727]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103727]Read 0 statuses
+[INFO][20140605-103728]Read 5 statuses
+[INFO][20140605-103730]Read 5 statuses
+[INFO][20140605-103730]Read 4 statuses
+[WARNING][20140605-103730]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103730]Read 0 statuses
+[INFO][20140605-103732]Read 5 statuses
+[INFO][20140605-103733]Read 5 statuses
+[INFO][20140605-103733]Read 4 statuses
+[WARNING][20140605-103734]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103734]Read 0 statuses
+[INFO][20140605-103735]Read 5 statuses
+[INFO][20140605-103736]Read 5 statuses
+[INFO][20140605-103737]Read 4 statuses
+[WARNING][20140605-103737]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103737]Read 0 statuses
+[INFO][20140605-103738]Read 5 statuses
+[INFO][20140605-103740]Read 5 statuses
+[INFO][20140605-103740]Read 4 statuses
+[WARNING][20140605-103740]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103740]Read 0 statuses
+[INFO][20140605-103741]Read 5 statuses
+[INFO][20140605-103743]Read 5 statuses
+[INFO][20140605-103743]Read 4 statuses
+[WARNING][20140605-103743]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103743]Read 0 statuses
+[INFO][20140605-103744]Read 5 statuses
+[INFO][20140605-103746]Read 5 statuses
+[INFO][20140605-103747]Read 4 statuses
+[WARNING][20140605-103747]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103747]Read 0 statuses
+[INFO][20140605-103748]Read 5 statuses
+[INFO][20140605-103749]Read 5 statuses
+[INFO][20140605-103750]Read 4 statuses
+[WARNING][20140605-103750]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103750]Read 0 statuses
+[INFO][20140605-103751]Read 5 statuses
+[INFO][20140605-103753]Read 5 statuses
+[INFO][20140605-103753]Read 4 statuses
+[WARNING][20140605-103753]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103753]Read 0 statuses
+[INFO][20140605-103754]Read 5 statuses
+[INFO][20140605-103756]Read 5 statuses
+[INFO][20140605-103756]Read 4 statuses
+[WARNING][20140605-103756]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103756]Read 0 statuses
+[INFO][20140605-103757]Read 5 statuses
+[INFO][20140605-103759]Read 5 statuses
+[INFO][20140605-103759]Read 4 statuses
+[WARNING][20140605-103759]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103759]Read 0 statuses
+[INFO][20140605-103800]Read 5 statuses
+[INFO][20140605-103802]Read 5 statuses
+[INFO][20140605-103802]Read 4 statuses
+[WARNING][20140605-103802]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103802]Read 0 statuses
+[INFO][20140605-103803]Read 5 statuses
+[INFO][20140605-103805]Read 5 statuses
+[INFO][20140605-103805]Read 4 statuses
+[WARNING][20140605-103805]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103805]Read 0 statuses
+[INFO][20140605-103807]Read 5 statuses
+[INFO][20140605-103808]Read 5 statuses
+[INFO][20140605-103808]Read 4 statuses
+[WARNING][20140605-103809]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103809]Read 0 statuses
+[INFO][20140605-103810]Read 5 statuses
+[INFO][20140605-103811]Read 5 statuses
+[INFO][20140605-103812]Read 4 statuses
+[WARNING][20140605-103812]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103812]Read 0 statuses
+[INFO][20140605-103813]Read 5 statuses
+[INFO][20140605-103815]Read 5 statuses
+[INFO][20140605-103815]Read 4 statuses
+[WARNING][20140605-103815]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103815]Read 0 statuses
+[INFO][20140605-103817]Read 5 statuses
+[INFO][20140605-103818]Read 5 statuses
+[INFO][20140605-103819]Read 4 statuses
+[WARNING][20140605-103819]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103819]Read 0 statuses
+[INFO][20140605-103820]Read 5 statuses
+[INFO][20140605-103821]Read 5 statuses
+[INFO][20140605-103822]Read 4 statuses
+[WARNING][20140605-103822]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103822]Read 0 statuses
+[INFO][20140605-103823]Read 5 statuses
+[INFO][20140605-103824]Read 5 statuses
+[INFO][20140605-103825]Read 4 statuses
+[WARNING][20140605-103825]Catch Exception in InputThread: <class 'xml.sax._exceptions.SAXException'>
+[INFO][20140605-103825]Read 0 statuses
+[INFO][20140605-103826]Read 5 statuses
+[INFO][20140605-103827]Read 5 statuses
